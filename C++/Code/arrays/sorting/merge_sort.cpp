@@ -61,9 +61,9 @@ void sort(int arr[], int s, int e)
 
 int main()
 {
-    int arr[] = {5, 4, 3, 2, 1};
-    sort(arr, 0, 4);
-    for (int i = 0; i < 5; i++)
+    int arr[] = {7,6,5,4,3,2,1};
+    sort(arr, 0, 6);
+    for (int i = 0; i < 7; i++)
     {
         cout << arr[i] << " ";
     }
