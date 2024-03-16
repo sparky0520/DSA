@@ -1,5 +1,5 @@
 // DNF Sort - Dutch National Flag Sorting method: Involves three pointers to sort an array containing three unique elements only.
-
+// Time complexity - O(N)
 #include <iostream>
 using namespace std;
 
