@@ -1,14 +1,18 @@
-package basic_misc;
+package Java.Code.basic_misc;
+
 import java.util.*;
+
 public class func {
+
     public static void printMyName(String name) {
         System.out.println(name);
         return;
     }
+
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
-        String name= sc.nextLine();
+        String name = sc.nextLine();
         printMyName(name);
-        sc.close();    
+        sc.close();
     }
 }

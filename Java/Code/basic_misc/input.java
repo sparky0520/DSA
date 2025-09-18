@@ -1,11 +1,12 @@
-package basic_misc;
+package Java.Code.basic_misc;
 
 import java.util.*;
 
-class input{
-    public static void main(String[] args){
+class input {
+
+    public static void main(String[] args) {
         //Input 
-        Scanner sc=new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         String name = sc.nextLine();
         System.out.println(name);
         sc.close();

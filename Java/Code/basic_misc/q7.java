@@ -1,7 +1,8 @@
-package basic_misc;
+package Java.Code.basic_misc;
 
 public class q7 {
+
     public static void name() {
-        
+
     }
 }
